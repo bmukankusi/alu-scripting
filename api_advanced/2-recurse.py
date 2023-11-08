@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """A function to query a list of all hot..."""
 import requests
 
